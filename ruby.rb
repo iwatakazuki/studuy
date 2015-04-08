@@ -56,4 +56,6 @@ when 2
    puts "hpの限界"
 when 3
    puts "くりあ"
+else
+   "特別なおわり"
 end
